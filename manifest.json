@@ -1,0 +1,18 @@
+{
+  "name": "متابع اللوحات",
+  "short_name": "متابع اللوحات",
+  "description": "تطبيق لمتابعة سياراتك بأرقام اللوحات ومواقعها، مع بحث صوتي وكاميرا، ويعمل بدون إنترنت",
+  "start_url": "./index.html",
+  "id": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E2A2E",
+  "theme_color": "#0E2A2E",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}

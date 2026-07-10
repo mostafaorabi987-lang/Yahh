@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0E2A2E"/>
+  <rect x="86" y="196" width="340" height="130" rx="16" fill="#F7F5EF" stroke="#14181A" stroke-width="10"/>
+  <circle cx="110" cy="218" r="8" fill="#14181A"/>
+  <circle cx="402" cy="218" r="8" fill="#14181A"/>
+  <text x="256" y="278" font-family="Arial, Tahoma, sans-serif" font-weight="800" font-size="58" fill="#14181A" text-anchor="middle">ط ص ب</text>
+  <rect x="256" y="360" width="0" height="0" fill="none"/>
+  <circle cx="256" cy="160" r="10" fill="#E8A33D"/>
+  <path d="M180 380 q76 40 152 0" stroke="#E8A33D" stroke-width="10" fill="none" stroke-linecap="round"/>
+</svg>
